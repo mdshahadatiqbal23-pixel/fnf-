@@ -3,9 +3,9 @@
 Static responsive landing page for GitHub Pages.
 
 ## Publish
-1. Repository Settings → Pages → choose Deploy from a branch → main / root.
-2. Custom domain: shop.myvpndownload.online.
-3. DNS: CNAME host shop pointing to mdshahadatiqbal23-pixel.github.io.
+1. Repository Settings → Pages → set source to GitHub Actions.
+2. Custom domain: app.fnftunnelbd.xyz.
+3. DNS: CNAME host app pointing to mdshahadatiqbal23-pixel.github.io.
 4. After DNS verifies, enable Enforce HTTPS.
 
 ## Links
